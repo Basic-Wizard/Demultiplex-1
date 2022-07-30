@@ -30,6 +30,7 @@ Open the four fastq files and read each simultaenously
                             match_count +=1  
 
 
+Everything looks pretty good here, I might just suggest checking both indexes simultainiously: if index 1 and rc index 2 in indexes...
 
 Functions: 
 
